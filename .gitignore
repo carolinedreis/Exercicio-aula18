@@ -1,0 +1,12 @@
+#Ambientes
+.env
+.venv
+venv
+env
+
+
+#editores
+/idea
+.vscode
+/vscode
+.idea
